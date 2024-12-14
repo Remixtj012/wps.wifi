@@ -14,10 +14,10 @@
 
  git clone https://github.com/Remixtj012/wps.wifi
 
- sudo python Naiyem_WiFi_Hack/Muhammad_Naiyem.py -i wlan0 -K
+ sudo python Remixtj_WiFi_Hack/Remixtj-Shop.py -i wlan0 -K
 ```
 
-#### Example : `sudo python Naiyem_WiFi_Hack/Muhammad_Naiyem.py -i wlan0 -K`
+#### Example : `sudo python Remixtj_WiFi_Hack/Remixtj-Shop.py -i wlan0 -K`
 
 #### Note: 
 **First turn off your Wifi.**
