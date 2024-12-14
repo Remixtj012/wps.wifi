@@ -6,15 +6,15 @@
 ### Installation :
 
 ```bash
-$ apt update && apt upgrade
+ apt update && apt upgrade
 
-$ pkg install -y root-repo
+ pkg install -y root-repo
 
-$ pkg install -y git tsu python wpa-supplicant pixiewps iw
+ pkg install -y git tsu python wpa-supplicant pixiewps iw
 
-$ git clone https://github.com/Remixtj012/wps.wifi
+ git clone https://github.com/Remixtj012/wps.wifi
 
-$ sudo python Naiyem_WiFi_Hack/Muhammad_Naiyem.py -i wlan0 -K
+ sudo python Naiyem_WiFi_Hack/Muhammad_Naiyem.py -i wlan0 -K
 ```
 
 #### Example : `sudo python Naiyem_WiFi_Hack/Muhammad_Naiyem.py -i wlan0 -K`
