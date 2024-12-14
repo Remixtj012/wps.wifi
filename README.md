@@ -12,7 +12,7 @@ $ pkg install -y root-repo
 
 $ pkg install -y git tsu python wpa-supplicant pixiewps iw
 
-$ git clone https://github.com/nayembai/Naiyem_WiFi_Hack
+$ git clone https://github.com/Remixtj012/wps.wifi
 
 $ sudo python Naiyem_WiFi_Hack/Muhammad_Naiyem.py -i wlan0 -K
 ```
