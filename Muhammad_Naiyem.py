@@ -18,8 +18,7 @@ import csv
 from typing import Dict
 
 print('''
-\033[1;92m Recoded By Naiyem
-246_N@M 
+\033[1;92m Recoded By Remixtj-Shop 
 
 
 
@@ -29,10 +28,10 @@ print('''
 ██╔═══╝░██╔══██║██║██║░░██║
 ██║░░░░░██║░░██║██║██████╔╝
 ╚═╝░░░░░╚═╝░░╚═╝╚═╝╚═════╝                                                                                                                          \______/                               
-<=========Only 100 TAKA This tools Muhammad Naiyem.by=========>
-Telegram:https://t.me/Muhammad_Naiyem
-One line Command:\nsudo python Naiyem_WiFi_Hack/Muhammad_Naiyem.py -i wlan0 -K\n
-For Help Type:\npython Naiyem_WiFi_Hack/Muhammad_Naiyem.py --help\033[0m
+<=========Only 100 Rupess This tools Remixtj-Shop.by=========>
+YouTube:https://www.youtube.com/@GamingWorldForRJKing
+One line Command:\nsudo python Remixtj_WiFi_Hack/Remixtj-Shop.py -i wlan0 -K\n
+For Help Type:\npython Remixtj_WiFi_Hack/Remixtj-Shop.py --help\033[0m
 ''')
 class NetworkAddress:
     def __init__(self, mac):
