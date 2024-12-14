@@ -14,7 +14,7 @@
 
  git clone https://github.com/Remixtj012/wps.wifi
 
- sudo python Remixtj_WiFi_Hack/Remixtj-Shop.py -i wlan0 -K
+ sudo python wps.wifi/Remixtj-Shop.py -i wlan0 -K
 ```
 
 #### Example : `sudo python Remixtj_WiFi_Hack/Remixtj-Shop.py -i wlan0 -K`
